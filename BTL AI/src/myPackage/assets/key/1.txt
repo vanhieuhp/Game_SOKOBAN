@@ -1,0 +1,132 @@
+up down up down up down left left right up up down right right left down down
+left left right up up down right right left down down
+up down up down up down up down left right up right left down left right down up left left right up up
+left left right up up down right right left down down 
+left left right up up down right right left down down 
+down up left left right up up down right left down up down left right up right right 
+left left left right up up down right left right right left down down 
+left left left right up up down right left right right left down down 
+up down up down up down up right right left left down left left right up up down down right down 
+up down up down left left right up up down right right left down down 
+up down up down left up left left right up up down right right 
+down up up down down up up down left left right up up down right right 
+up down left left right up up down right right left down down 
+down up up down up down up down left left right up up down right right 
+up down left left right right right left left left right right up up right left down down left up left up up 
+up down left left right right right left left left right right up up right left down down left up left up up 
+up down up down down up left left right up up down right right 
+up down up down up down up down up down up down left left right up up down right right left down down 
+up down up down up down up down up up right right left left down left left right right left right down up left up up 
+up right left left down left left right right down up left up up 
+up right left left down left left right right down up left up up 
+up right left left down down up left left right right left up up 
+up right left left down down up left left right right left up up 
+up right left down down up left left right up up 
+down up left left right up up down right right 
+down up left left right up up right down right right 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 
+up down up down up right left down down up left left right right left up up 

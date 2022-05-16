@@ -1,0 +1,3 @@
+﻿  Example4.cpp
+D:\Developer\C++\Lesson1\Chapter3\Example4\Example4.cpp(79,6): warning C4101: 'i': unreferenced local variable
+  Example4.vcxproj -> D:\Developer\C++\Lesson1\Chapter3\Example4\x64\Debug\Example4.exe

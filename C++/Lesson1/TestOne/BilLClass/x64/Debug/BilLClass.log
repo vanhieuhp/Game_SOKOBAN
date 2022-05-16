@@ -1,0 +1,4 @@
+﻿  BilLClass.cpp
+D:\Developer\C++\Lesson1\TestOne\BilLClass\BilLClass.cpp(23,33): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Developer\C++\Lesson1\TestOne\BilLClass\BilLClass.cpp(24,30): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Developer\C++\Lesson1\TestOne\BilLClass\BilLClass.cpp(25,33): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

@@ -1,0 +1,2 @@
+D:\C++\Lesson1\TestOne\PhanSo\x64\Debug\PhanSo.exe
+D:\Developer\C++\Lesson1\TestOne\PhanSo\x64\Debug\PhanSo.exe

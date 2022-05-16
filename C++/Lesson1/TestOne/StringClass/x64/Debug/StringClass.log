@@ -1,0 +1,3 @@
+﻿  StringClass.cpp
+D:\C++\Lesson1\TestOne\StringClass\StringClass.cpp(29,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  StringClass.vcxproj -> D:\C++\Lesson1\TestOne\StringClass\x64\Debug\StringClass.exe

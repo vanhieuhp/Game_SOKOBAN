@@ -1,0 +1,8 @@
+﻿  BilLClass.cpp
+D:\Developer\C++\Lesson1\TestOne\BilLClass\BilLClass.cpp(24,35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 23 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BilLClass.vcxproj -> D:\Developer\C++\Lesson1\TestOne\BilLClass\x64\Release\BilLClass.exe

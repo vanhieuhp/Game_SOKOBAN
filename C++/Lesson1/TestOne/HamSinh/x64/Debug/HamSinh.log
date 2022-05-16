@@ -1,0 +1,2 @@
+﻿  HamSinh.cpp
+D:\Developer\C++\Lesson1\TestOne\HamSinh\HamSinh.cpp(36,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int

@@ -1,0 +1,4 @@
+﻿  Test1.cpp
+D:\Developer\C++\Youtobe\Test1\Test1.cpp(16,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Developer\C++\Youtobe\Test1\Test1.cpp(24,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Test1.vcxproj -> D:\Developer\C++\Youtobe\Test1\x64\Debug\Test1.exe
